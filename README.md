@@ -30,9 +30,9 @@
 
 
 
-##Citation
+## Citation
 
-1, Seyeditabari, A., Tabari, N., Gholizadeh, S., & Zadrozny, W. (2019). Emotional Embeddings: Refining Word Embeddings to Capture Emotional Content of Words. arXiv preprint arXiv:1906.00112.
+* 1, Seyeditabari, A., Tabari, N., Gholizadeh, S., & Zadrozny, W. (2019). Emotional Embeddings: Refining Word Embeddings to Capture Emotional Content of Words. arXiv preprint arXiv:1906.00112.
 
-2, L. Xu, “Constructing the affective lexicon ontology,” Journal of the China
+* 2, L. Xu, “Constructing the affective lexicon ontology,” Journal of the China
 Society for Scientific & Technical Information, 2008.
