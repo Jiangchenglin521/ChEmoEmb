@@ -1,6 +1,6 @@
-##中文细粒度情感词整理
-###中文情感词和词向量
-####sentiment constraints in consideration
+# 中文细粒度情感词整理
+## 中文情感词和词向量
+### sentiment constraints in consideration
 
 > 总述
 
@@ -34,4 +34,5 @@
 
 1, Seyeditabari, A., Tabari, N., Gholizadeh, S., & Zadrozny, W. (2019). Emotional Embeddings: Refining Word Embeddings to Capture Emotional Content of Words. arXiv preprint arXiv:1906.00112.
 
-2, L. Xu, “Constructing the affective lexicon ontology,” Journal of the ChinaSociety for Scientific & Technical Information, 2008.
+2, L. Xu, “Constructing the affective lexicon ontology,” Journal of the China
+Society for Scientific & Technical Information, 2008.
